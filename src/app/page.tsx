@@ -6,11 +6,9 @@ import { Grades } from "@/components/Grades";
 import { Skills } from "@/components/Skills";
 import { Certificates } from "@/components/Certificates";
 import { Certifications } from "@/components/Certifications";
-import { ComingSoon } from "@/components/ComingSoon";
 import { Hobbies } from "@/components/Hobbies";
 import { Contact } from "@/components/Contact";
 import { Footer } from "@/components/Footer";
-import { projectsComingSoon } from "@/content/extras";
 import { TravelGallery } from "@/components/TravelGallery";
 
 export default function Home() {
@@ -31,14 +29,6 @@ export default function Home() {
         <Skills />
         <Certificates />
         <Certifications />
-        <ComingSoon
-          id="projekte"
-          kicker="Projekte"
-          title={projectsComingSoon.title}
-          message={projectsComingSoon.message}
-          image="/assets/images/placeholder-project.svg"
-          count={projectsComingSoon.placeholderCount}
-        />
         <TravelGallery />
         <Hobbies />
         <Contact />

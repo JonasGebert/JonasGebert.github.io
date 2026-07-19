@@ -37,12 +37,6 @@ export function Hero() {
               CV ansehen
             </a>
             <a
-              href="#projekte"
-              className="glass rounded-xl px-6 py-3 text-sm font-semibold text-slate-200 transition-colors hover:border-cyan-400/40"
-            >
-              Projekte entdecken
-            </a>
-            <a
               href="#kontakt"
               className="rounded-xl px-6 py-3 text-sm font-semibold text-slate-400 transition-colors hover:text-cyan-300"
             >

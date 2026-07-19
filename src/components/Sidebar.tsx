@@ -11,7 +11,6 @@ const items = [
   { id: "skills", label: "Skills", icon: "wrench" },
   { id: "zeugnisse", label: "Zeugnisse", icon: "award" },
   { id: "zertifikate", label: "Zertifikate", icon: "file" },
-  { id: "projekte", label: "Projekte", icon: "code" },
   { id: "reisen", label: "Reisen", icon: "globe" },
   { id: "hobbys", label: "Hobbys", icon: "heart" },
   { id: "kontakt", label: "Kontakt", icon: "mail" },

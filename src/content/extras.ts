@@ -168,14 +168,6 @@ export const hobbies: Hobby[] = [
   },
 ];
 
-/** Noch keine Projekt-Markdown-Dateien vorhanden — Platzhalter, bis content/projekte/*.md existiert. */
-export const projectsComingSoon = {
-  title: "Freizeitprojekte",
-  message:
-    "Hier entstehen Projekt-Case-Studies (GitHub-Projekte, Coding-Experimente, Side Projects). Inhalte folgen.",
-  placeholderCount: 3,
-} as const;
-
 /**
  * Reise-Galerie: Bild in public/assets/images/ ablegen und hier eine Zeile ergänzen.
  * width/height = echte Pixelmaße des Bildes (verhindert Layout-Springen beim Laden).
