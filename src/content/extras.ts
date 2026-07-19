@@ -218,6 +218,27 @@ export const travelPhotos: TravelPhoto[] = [
     width: 4032,
     height: 1908,
   },
+  {
+    src: "/assets/images/Danzig.png",
+    alt: "Danzig, 2025",
+    caption: "Danzig 2025",
+    width: 1364,
+    height: 768,
+  },
+  {
+    src: "/assets/images/MountRushmore.jpg",
+    alt: "Mount Rushmore, 2016",
+    caption: "Mount Rushmore 2016",
+    width: 896,
+    height: 1195,
+  },
+  {
+    src: "/assets/images/Sevilla_Kathedrale.jpg",
+    alt: "Sevilla, Kathedrale, 2022",
+    caption: "Sevilla 2022 — Kathedrale",
+    width: 4032,
+    height: 1816,
+  },
 ];
 
 export const travelSection = {
